@@ -1,0 +1,405 @@
+{
+  "module_list": [
+    {
+      "module_id": "12",
+      "module_name": "banner",
+      "show_num": "5",
+      "module_type_id": "11",
+      "module_data": [
+        {
+          "banner_title": "告别失眠",
+          "banner_picture": "http:\/\/img.szzhangchu.com\/1575008985833_1876437215.png",
+          "banner_link": "https:\/\/mp.weixin.qq.com\/s\/Jq4fD-tXoDTSao4i_LABcA",
+          "is_link": "1"
+        },
+        {
+          "banner_title": "土豆脊骨锅",
+          "banner_picture": "http:\/\/img.szzhangchu.com\/1575008842114_3291789013.png",
+          "banner_link": "http:\/\/h5.izhangchu.com\/course\/view.html?&type=1&series_id=238&food_course_id=8871",
+          "is_link": "1"
+        },
+        {
+          "banner_title": "锅包豆腐盖饭",
+          "banner_picture": "http:\/\/img.szzhangchu.com\/1575008932741_2789081140.png",
+          "banner_link": "http:\/\/h5.izhangchu.com\/course\/view.html?&type=1&series_id=238&food_course_id=8811",
+          "is_link": "1"
+        }
+      ]
+    },
+    {
+      "module_id": "13",
+      "module_name": "功能入口",
+      "show_num": "5",
+      "module_type_id": "12",
+      "module_data": [
+        {
+          "id": "23",
+          "entry_title": "新手入门",
+          "entry_desc": "新手入门5.3",
+          "link": "http:\/\/h5.izhangchu.com\/Tour.html?app_hideheader=1",
+          "entry_icon": "http:\/\/img.szzhangchu.com\/1547520272699_1377416770.png"
+        },
+        {
+          "id": "24",
+          "entry_title": "菜谱分类",
+          "entry_desc": "场景菜谱5.3",
+          "link": "",
+          "entry_icon": "http:\/\/img.szzhangchu.com\/1547520334555_1088429523.png"
+        },
+        {
+          "id": "25",
+          "entry_title": "IP视频",
+          "entry_desc": "IP视频5.3",
+          "link": "",
+          "entry_icon": "http:\/\/img.szzhangchu.com\/1547520370471_1594325557.png"
+        },
+        {
+          "id": "26",
+          "entry_title": "场景菜谱",
+          "entry_desc": "场景菜谱5.3",
+          "link": "app:\/\/scenelist",
+          "entry_icon": "http:\/\/img.szzhangchu.com\/1547520434310_5782660776.png"
+        },
+        {
+          "id": "27",
+          "entry_title": "食材搭配",
+          "entry_desc": "食材搭配5.3",
+          "link": "app:\/\/foodmatch",
+          "entry_icon": "http:\/\/img.szzhangchu.com\/1547520481815_2468477550.png"
+        }
+      ]
+    },
+    {
+      "module_id": "14",
+      "module_name": "今日新品",
+      "show_num": "2",
+      "module_type_id": "13",
+      "module_data": [
+        {
+          "dishes_id": "15123",
+          "dishes_name": "白果莲子粥",
+          "dishes_image": "http:\/\/img.szzhangchu.com\/1464439372265_2106272430.JPG",
+          "dishes_desc": "随着生活节奏的加快，容易使人感到疲劳，乏累，赶紧来试试这款养生粥吧，好粥好料好味道，养生又养颜。"
+        },
+        {
+          "dishes_id": "15129",
+          "dishes_name": "炒螺蛳",
+          "dishes_image": "http:\/\/img.szzhangchu.com\/1464440754945_5410732162.JPG",
+          "dishes_desc": "听说好友相聚，必须有酒，听说炒螺蛳和啤酒最配！~"
+        }
+      ]
+    },
+    {
+      "module_id": "17",
+      "module_name": "吃货种草机",
+      "show_num": "6",
+      "module_type_id": "16",
+      "module_data": [
+        {
+          "img_url": "http:\/\/img.szzhangchu.com\/1574835406107_5234446870.png",
+          "link_url": "app:\/\/scene#513#"
+        },
+        {
+          "img_url": "http:\/\/img.szzhangchu.com\/1574835377255_7357816661.png",
+          "link_url": "app:\/\/scene#515#"
+        },
+        {
+          "img_url": "http:\/\/img.szzhangchu.com\/1574835347658_7225320323.png",
+          "link_url": "app:\/\/scene#518#"
+        },
+        {
+          "img_url": "http:\/\/img.szzhangchu.com\/1574835303374_4426298306.png",
+          "link_url": "app:\/\/scene#519#"
+        },
+        {
+          "img_url": "http:\/\/img.szzhangchu.com\/1574835258824_2950257286.png",
+          "link_url": "app:\/\/scene#520#"
+        },
+        {
+          "img_url": "http:\/\/img.szzhangchu.com\/1574835228602_2582825990.png",
+          "link_url": "app:\/\/scene#521#"
+        }
+      ]
+    },
+    {
+      "module_id": "15",
+      "module_name": "美食研究所",
+      "show_num": "9",
+      "module_type_id": "14",
+      "module_data": [
+        {
+          "series_id": "136",
+          "series_name": "拾味爸爸",
+          "series_image": "http:\/\/img.szzhangchu.com\/1482484177864_7734338358.png",
+          "description": "厨房男神",
+          "dateType": "food",
+          "background": "http:\/\/img.szzhangchu.com\/1555485103800_2255902016.png"
+        },
+        {
+          "series_id": "215",
+          "series_name": "食语集",
+          "series_image": "http:\/\/img.szzhangchu.com\/1553586729344_3338645550.jpg",
+          "description": "生活的原味",
+          "dateType": "food",
+          "background": "http:\/\/img.szzhangchu.com\/1555485103800_2255902016.png"
+        },
+        {
+          "series_id": "238",
+          "series_name": "夏夏和秋秋的小厨房",
+          "series_image": "http:\/\/img.szzhangchu.com\/1561602124886_1048340584.jpeg",
+          "description": "认真吃饭,好好生活",
+          "dateType": "food",
+          "background": "http:\/\/img.szzhangchu.com\/1555485103800_2255902016.png"
+        },
+        {
+          "series_id": "191",
+          "series_name": "独道",
+          "series_image": "http:\/\/img.szzhangchu.com\/1495705520215_2472698151.png",
+          "description": "养生果酱的秘密",
+          "dateType": "healthy",
+          "background": "http:\/\/img.szzhangchu.com\/1555485087059_3834306139.png"
+        },
+        {
+          "series_id": "194",
+          "series_name": "小得健康",
+          "series_image": "http:\/\/img.szzhangchu.com\/1499851970521_5280285707.png",
+          "description": "减肥妙招",
+          "dateType": "healthy",
+          "background": "http:\/\/img.szzhangchu.com\/1555485087059_3834306139.png"
+        },
+        {
+          "series_id": "196",
+          "series_name": "菜鸟妈妈",
+          "series_image": "http:\/\/img.szzhangchu.com\/1504505627645_6322469847.png",
+          "description": "产后恢复",
+          "dateType": "healthy",
+          "background": "http:\/\/img.szzhangchu.com\/1555485087059_3834306139.png"
+        },
+        {
+          "series_id": "13",
+          "series_name": "熊叔厨房",
+          "series_image": "http:\/\/img.szzhangchu.com\/1495783706029_5080400634.png",
+          "description": "上海咸豆浆",
+          "dateType": "ip",
+          "background": "http:\/\/img.szzhangchu.com\/1555485024559_4133987604.png"
+        },
+        {
+          "series_id": "29",
+          "series_name": "玩疯了",
+          "series_image": "http:\/\/img.szzhangchu.com\/1498469896947_3676365090.JPG",
+          "description": "夏日冰淇淋",
+          "dateType": "ip",
+          "background": "http:\/\/img.szzhangchu.com\/1555485024559_4133987604.png"
+        },
+        {
+          "series_id": "30",
+          "series_name": "小得健康",
+          "series_image": "http:\/\/img.szzhangchu.com\/1499851970521_5280285707.png",
+          "description": "快速入眠妙招",
+          "dateType": "ip",
+          "background": "http:\/\/img.szzhangchu.com\/1555485024559_4133987604.png"
+        }
+      ]
+    },
+    {
+      "module_id": "16",
+      "module_name": "为你甄选",
+      "show_num": "6",
+      "module_type_id": "15",
+      "module_data": [
+        {
+          "dishes_id": "15489",
+          "dishes_name": "什锦烤鱼",
+          "dishes_image": "http:\/\/img.szzhangchu.com\/1466224962333_5695972134.jpg",
+          "dishes_desc": "鲫鱼本身多刺鲜嫩，家常用红烧或者清炖方式烹制，但是用烤的方式烹制后更是增添多样风情。",
+          "desc": "人见人爱"
+        },
+        {
+          "dishes_id": "15490",
+          "dishes_name": "水果雪糕塔",
+          "dishes_image": "http:\/\/img.szzhangchu.com\/1466225308214_2588952340.jpg",
+          "dishes_desc": "炎炎夏日，宅在家里煲剧，再来一个水果冰激凌Party，还有什么比这种生活更休闲惬意了呢？",
+          "desc": "吃货强推"
+        },
+        {
+          "dishes_id": "15491",
+          "dishes_name": "香酥烤梨",
+          "dishes_image": "http:\/\/img.szzhangchu.com\/1466225638332_1715766856.jpg",
+          "dishes_desc": "不想再只是简单生吃梨子，那就转动你的烤箱吧，让烤箱带你去品尝梨子的别样风味。",
+          "desc": "大写的好吃"
+        },
+        {
+          "dishes_id": "15492",
+          "dishes_name": "紫甘蓝炒虾皮",
+          "dishes_image": "http:\/\/img.szzhangchu.com\/1466225942797_5621035353.jpg",
+          "dishes_desc": "爱生活，爱美食，更爱色香味俱全的美食。那么这道紫甘蓝炒虾皮，绝对能够满足你的视觉和味觉的享受。",
+          "desc": "垂涎三尺"
+        },
+        {
+          "dishes_id": "15493",
+          "dishes_name": "花生酱烤肉串",
+          "dishes_image": "http:\/\/img.szzhangchu.com\/1466226265140_9304568919.jpg",
+          "dishes_desc": "吃烧烤没有肉可不行，没有肉串更是不过瘾，新鲜的一块块肉刷上一层花生酱，烤熟后滋味别提有多美！",
+          "desc": "好味分享"
+        },
+        {
+          "dishes_id": "15494",
+          "dishes_name": "魁家的黑椒土豆泥",
+          "dishes_image": "http:\/\/img.szzhangchu.com\/1466226614079_7132894530.jpg",
+          "dishes_desc": "大家都喜欢土豆泥，因为它颜色鲜艳，气味香甜还容易咀嚼。这道菜肴融合了芝士的酸甜，口味将更加丰富。",
+          "desc": "回味无穷"
+        }
+      ]
+    },
+    {
+      "module_id": "18",
+      "module_name": "活动专题",
+      "show_num": "5",
+      "module_type_id": "17",
+      "module_data": [
+        {
+          "topic_id": "439",
+          "title": "这些传说中的鸡爪爪，确实好吃！",
+          "topic_picture": "http:\/\/img.szzhangchu.com\/1564394154831_3721047756.jpg",
+          "link": "http:\/\/h5.izhangchu.com\/topic_view\/index.html?&topic_id=439"
+        },
+        {
+          "topic_id": "412",
+          "title": "超模人手一杯的轻体蔬果汁，爱了爱了！",
+          "topic_picture": "http:\/\/img.szzhangchu.com\/1560225246380_2973502575.jpg",
+          "link": "http:\/\/h5.izhangchu.com\/topic_view\/index.html?&topic_id=412"
+        },
+        {
+          "topic_id": "393",
+          "title": "端午到，你想吃的粽子都在这里",
+          "topic_picture": "http:\/\/img.szzhangchu.com\/1559374411293_8382168761.jpg",
+          "link": "http:\/\/h5.izhangchu.com\/topic_view\/index.html?&topic_id=393"
+        },
+        {
+          "topic_id": "385",
+          "title": "儿童节给娃做这个吃，幼儿园小朋友都羡慕",
+          "topic_picture": "http:\/\/img.szzhangchu.com\/1559096013829_8317909720.jpg",
+          "link": "http:\/\/h5.izhangchu.com\/topic_view\/index.html?&topic_id=385"
+        },
+        {
+          "topic_id": "380",
+          "title": "致闺蜜|来我家喝下午茶吧",
+          "topic_picture": "http:\/\/img.szzhangchu.com\/1558603157393_5613550650.png",
+          "link": "http:\/\/h5.izhangchu.com\/topic_view\/index.html?&topic_id=380"
+        }
+      ]
+    },
+    {
+      "module_id": "19",
+      "module_name": "达人UP榜",
+      "show_num": "3",
+      "module_type_id": "18",
+      "module_data": [
+        {
+          "user_id": "1278869",
+          "nick": "风影含沙",
+          "head_img": "http:\/\/img.szzhangchu.com\/IMG_20160603_134334.jpg",
+          "fans": "8674",
+          "follow": "0"
+        },
+        {
+          "user_id": "1151933",
+          "nick": "miao . ❤",
+          "head_img": "http:\/\/img.szzhangchu.com\/1540976169967_0093812231.jpg",
+          "fans": "4704",
+          "follow": "0"
+        },
+        {
+          "user_id": "1249239",
+          "nick": "👼最赞心间👼",
+          "head_img": "http:\/\/img.szzhangchu.com\/1457917189374_4612687554.jpg",
+          "fans": "6268",
+          "follow": "0"
+        },
+        {
+          "user_id": "1236423",
+          "nick": "木匠的女儿",
+          "head_img": "http:\/\/img.szzhangchu.com\/1457080143432_8004286259.jpg",
+          "fans": "6081",
+          "follow": "0"
+        },
+        {
+          "user_id": "1179063",
+          "nick": "Aan 余儿",
+          "head_img": "http:\/\/img.szzhangchu.com\/IMG_20151224_151557.jpg",
+          "fans": "2079",
+          "follow": "0"
+        },
+        {
+          "user_id": "1245189",
+          "nick": "美杜沙",
+          "head_img": "http:\/\/img.szzhangchu.com\/1490770122738_0780458777.jpg",
+          "fans": "2028",
+          "follow": "0"
+        }
+      ]
+    },
+    {
+      "module_id": "20",
+      "module_name": "美食新秀",
+      "show_num": "6",
+      "module_type_id": "19",
+      "module_data": [
+        {
+          "id": "183354",
+          "image": "http:\/\/img.szzhangchu.com\/1575555961824_3872442234.jpg",
+          "create_time": "2019-12-05",
+          "content": "冰糖雪梨           咳嗽期间要多喝热水\n川贝粉少许  陈皮 甘草 罗汉果 各少许 冰糖 蒸40分钟\n治 清热解毒 润肺 咳嗽 久咳 百日咳 止咳化痰 利咽消肿 咽痛 燥热咳嗽 热咳。\n忌：辛辣 鱼 海鲜 油炸食品 烟酒\n禁：脾胃虚弱 体内有寒气 不适合食用。\n陈皮：气虚及阴虚燥咳患者不宜，吐皿证慎服。\n（川贝：脾胃胃虚寒及寒痰者慎服。不宜与乌头类药物同用）川贝治热咳，寒咳食用会加重病情。",
+          "nick": "陳氏天南",
+          "head_img": "http:\/\/img.szzhangchu.com\/IMG_20170717_124840.jpg",
+          "agree_count": "8"
+        },
+        {
+          "id": "183359",
+          "image": "http:\/\/img.szzhangchu.com\/1575563761188_5054221077.jpg",
+          "create_time": "2019-12-06",
+          "content": "",
+          "nick": "杨微微",
+          "head_img": "http:\/\/thirdwx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83epMU7OvVRwD1VZibLolJOuPpiajTia8wZWC1IfYIU0CfQlck8lUSjeAlquaoibebw4SJEF3uIB0icbRAfQ\/132",
+          "agree_count": "11"
+        },
+        {
+          "id": "183362",
+          "image": "http:\/\/img.szzhangchu.com\/1575589757912_7643779839.jpg",
+          "create_time": "2019-12-06",
+          "content": "鲜肉虾仁锅贴",
+          "nick": "两个妮子的老妈",
+          "head_img": "http:\/\/img.szzhangchu.com\/IMG_20190723_223831.jpg",
+          "agree_count": "8"
+        },
+        {
+          "id": "183263",
+          "image": "http:\/\/img.szzhangchu.com\/1575432808860_4948326490.jpg",
+          "create_time": "2019-12-04",
+          "content": "阳光正好！",
+          "nick": "Miss 👑女王",
+          "head_img": "http:\/\/thirdwx.qlogo.cn\/mmopen\/vi_32\/Q0j4TwGTfTLWibYmOUwu6As5GaSNck5u4UngwveLDa76fqlYE0mooibaOTtdFfYe48GYVFaSXeVPGZwl6JT5UjDg\/132",
+          "agree_count": "10"
+        },
+        {
+          "id": "183265",
+          "image": "http:\/\/img.szzhangchu.com\/1575432905155_414823605.jpg",
+          "create_time": "2019-12-04",
+          "content": "夏季早餐！",
+          "nick": "Miss 👑女王",
+          "head_img": "http:\/\/thirdwx.qlogo.cn\/mmopen\/vi_32\/Q0j4TwGTfTLWibYmOUwu6As5GaSNck5u4UngwveLDa76fqlYE0mooibaOTtdFfYe48GYVFaSXeVPGZwl6JT5UjDg\/132",
+          "agree_count": "11"
+        },
+        {
+          "id": "183272",
+          "image": "http:\/\/img.szzhangchu.com\/1575433176779_5423076328.jpg",
+          "create_time": "2019-12-04",
+          "content": "吃好的同时要好好学习哦！",
+          "nick": "Miss 👑女王",
+          "head_img": "http:\/\/thirdwx.qlogo.cn\/mmopen\/vi_32\/Q0j4TwGTfTLWibYmOUwu6As5GaSNck5u4UngwveLDa76fqlYE0mooibaOTtdFfYe48GYVFaSXeVPGZwl6JT5UjDg\/132",
+          "agree_count": "10"
+        }
+      ]
+    }
+  ]
+}
